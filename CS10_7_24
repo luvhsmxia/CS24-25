@@ -1,0 +1,18 @@
+import org.w3c.dom.ls.LSOutput;
+
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    public static void main(String[] args) {
+        int myNumber = 16;
+        char myLetter = 'M';
+        boolean areYouOkay = true;
+        float myInteger = 3.16f;
+        String randomWords = "random string";
+
+        }
+        String[] fruits = {"apple", "orange", "banana", "strawberry", "blueberry"};
+        
+    }
+
+// i forgot how to do everything else
